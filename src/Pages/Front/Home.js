@@ -18,7 +18,7 @@ const Home = () => {
                 </h1>
                 <p style={{ fontSize: "18px" }}>
                   A full-stack engineering firm that builds cutting edge
-                  products for businesses to grow to a web scale
+                  products for businesses to grow to a web scale.
                 </p>
                 <div className="d-flex meta">
                   <div className="">
@@ -51,7 +51,7 @@ const Home = () => {
         <div className="container">
           <div className="row d-flex no-gutters">
             <div className="col-md-3 d-flex align-items-stretch ftco-animate process-int">
-              <div className="media block-6 services services-bg d-block text-center px-4 py-5">
+              <div className="media block-6 services services-bg d-block text-center px-4 py-5 pb-mv-0 mb-mv-0">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-supervised"></span>
                 </div>
@@ -65,7 +65,7 @@ const Home = () => {
               </div>
             </div>
             <div className="col-md-3 d-flex align-items-stretch ftco-animate process-int">
-              <div className="media block-6 services services-bg services-darken d-block text-center px-4 py-5">
+              <div className="media block-6 services services-bg services-darken d-block text-center px-4 py-5 pb-mv-0 mb-mv-0">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-system"></span>
                 </div>
@@ -79,7 +79,7 @@ const Home = () => {
               </div>
             </div>
             <div className="col-md-3 d-flex align-items-stretch ftco-animate process-int">
-              <div className="media block-6 services services-bg services-lighten d-block text-center px-4 py-5">
+              <div className="media block-6 services services-bg services-lighten d-block text-center px-4 py-5 pb-mv-0 mb-mv-0">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-accounting"></span>
                 </div>
@@ -94,7 +94,7 @@ const Home = () => {
               </div>
             </div>
             <div className="col-md-3 d-flex align-items-stretch ftco-animate process-int">
-              <div className="media block-6 services services-bg d-block text-center px-4 py-5">
+              <div className="media block-6 services services-bg d-block text-center px-4 py-5 pb-mv-0">
                 <div className="icon d-flex justify-content-center align-items-center">
                   <span className="flaticon-blueprint"></span>
                 </div>
@@ -116,7 +116,7 @@ const Home = () => {
       <section className="section-what-we-do ftco-section bg-light">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-md-10 col-xl-8 text-center mb-5 heading-section">
+            <div className="col-md-10 col-xl-8 text-center mb-6 heading-section">
               <span className="subheading">Skills</span>
               <h2 className="position-relative">We’re Specialized In</h2>
               <strong>
@@ -128,7 +128,7 @@ const Home = () => {
         </div>
         <div className="wrapper">
           <div className="container-fluid">
-            <div className="row">
+            <div className="row mb-4">
               <div className="col-sm-6 col-md-4 mb-4 text-center text-sm-left wow fadeIn animated">
                 <img
                   alt="website"
@@ -233,7 +233,7 @@ const Home = () => {
       <section className="section-what-we-do ftco-section bg-light">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-md-10 col-xl-8 text-center mb-5 heading-section">
+            <div className="col-md-10 col-xl-8 text-center mb-6 heading-section">
               <span className="subheading">Industry</span>
               <h2 className="position-relative">
                 Experience in various domains
@@ -243,7 +243,7 @@ const Home = () => {
         </div>
         <div className="wrapper">
           <div className="container-fluid">
-            <div className="row mb-5">
+            <div className="row mb-6">
               <div className="col-sm-2 col-md-3 mb-4 text-center wow fadeIn animated">
                 <img
                   alt="website"

@@ -196,4 +196,11 @@
 
     fixedContentPos: false,
   });
+
+  $(document).on("click", ".nav-link", function (e) {
+    e.preventDefault();
+    if ($(window).width() < 700) {
+      $(".navbar-collapse.collapse").removeClass("show");
+    }
+  });
 })(jQuery);

@@ -36,12 +36,12 @@ const PrivacyPolicy = () => {
                 <h3 className="mb-4">Privacy Policy</h3>
                 <h5>Introduction</h5>{" "}
                 <p>
-                  This Privacy Policy governs the manner in which Intranet
+                  This Privacy Policy governs the manner in which freelancerdevs
                   collects, uses, maintains and discloses information collected
                   from users (each, a “User”) of the website
-                  https://developer.intranetcomputers.com (“Site”). This privacy
-                  policy applies to the Site and all products and services
-                  offered by Intranet.
+                  https://freelancerdevs.com (“Site”). This privacy policy
+                  applies to the Site and all products and services offered by
+                  freelancerdevs.
                 </p>
                 <h5>Personal identification information</h5>
                 <p>
@@ -79,8 +79,8 @@ const PrivacyPolicy = () => {
                 </p>
                 <h5>How we use collected information</h5>
                 <p>
-                  Intranet may collect and use User’s personal information for
-                  the following purposes:
+                  Freelancerdevs may collect and use User’s personal information
+                  for the following purposes:
                 </p>
                 <ul>
                   <li>
@@ -129,14 +129,14 @@ const PrivacyPolicy = () => {
                 </p>
                 <h5>Changes to this privacy policy</h5>
                 <p>
-                  Intranet has the discretion to update this privacy policy at
-                  any time. When we do, we will revise the updated date at the
-                  bottom of this page. We encourage Users to frequently check
-                  this page for any changes to stay informed about how we are
-                  helping to protect the personal information we collect. You
-                  acknowledge and agree that it is your responsibility to review
-                  this privacy policy periodically and become aware of
-                  modifications.
+                  Freelancerdevs has the discretion to update this privacy
+                  policy at any time. When we do, we will revise the updated
+                  date at the bottom of this page. We encourage Users to
+                  frequently check this page for any changes to stay informed
+                  about how we are helping to protect the personal information
+                  we collect. You acknowledge and agree that it is your
+                  responsibility to review this privacy policy periodically and
+                  become aware of modifications.
                 </p>
                 <h5>Your acceptance of these terms</h5>
                 <p>

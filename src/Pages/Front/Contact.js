@@ -34,6 +34,7 @@ const Contact = () => {
         <div className="container">
           <div className="row block-9 justify-content-center mb-5">
             <div className="col-md-8 mb-md-5">
+              <h2 className="text-center">Get in touch with Our Experts!</h2>
               <div className="bg-light p-5 contact-form">
                 <ContactForm buttontext="Send Message" page="contactus" />
               </div>
@@ -47,7 +48,7 @@ const Contact = () => {
           <div className="row d-flex mb-5 contact-info justify-content-center">
             <div className="col-md-8">
               <div className="row mb-5">
-                <div className="col-md-4 text-center py-4">
+                {/* <div className="col-md-4 text-center py-4">
                   <div className="icon">
                     <span className="fa fa-map"></span>
                   </div>
@@ -55,31 +56,31 @@ const Contact = () => {
                     <span>Address:</span> H-6, Akansha, Goregaon West, Mumbai
                     400104
                   </p>
-                </div>
-                <div className="col-md-4 text-center border-height py-4">
+                </div> */}
+                <div className="col-md-6 text-center border-height py-4">
                   <div className="icon">
                     <span className="fa fa-phone"></span>
                   </div>
                   <p>
                     <span>Phone:</span>{" "}
-                    <a href="tel:+918080808128">(+91) 8080808128</a>
+                    <a href="tel:+919870352109">(+91) 9870352109</a>
                   </p>
                 </div>
-                <div className="col-md-4 text-center py-4">
+                <div className="col-md-6 text-center py-4">
                   <div className="icon">
                     <span className="fa fa-paper-plane"></span>
                   </div>
                   <p>
                     <span>Email:</span>{" "}
-                    <a href="mailto:info@intranetcomputers.com">
-                      info@intranetcomputers.com
+                    <a href="mailto:freelancerdevelopers@gmail.com">
+                      freelancerdevelopers@gmail.com
                     </a>
                   </p>
                 </div>
               </div>
             </div>
           </div>
-          <div className="row justify-content-center">
+          {/* <div className="row justify-content-center">
             <div className="col-md-8">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60291.987566036456!2d72.81334811341416!3d19.184314037477737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b74d7c53d8fb%3A0xcb919b79948470f4!2sIntranet%20Computers!5e0!3m2!1sen!2sin!4v1602348914891!5m2!1sen!2sin"
@@ -91,7 +92,7 @@ const Contact = () => {
                 title="This is an Map"
               />
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

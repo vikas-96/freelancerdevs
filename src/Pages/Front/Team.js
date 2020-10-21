@@ -46,7 +46,9 @@ const Team = () => {
                       Mayur <br />
                       Mane
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">
+                      Solution Architect / Developer
+                    </span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -84,7 +86,7 @@ const Team = () => {
                       Pooja <br />
                       Benbansi
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">Team lead / Developer</span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -122,7 +124,7 @@ const Team = () => {
                       Harshit <br />
                       Singh
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">Php Developer</span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -160,7 +162,9 @@ const Team = () => {
                       Vikas <br />
                       Gupta
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">
+                      Reactjs & Nodejs Developer
+                    </span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -199,7 +203,9 @@ const Team = () => {
                       Sameer <br />
                       Mandave
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">
+                      React Native & Electronjs Developer
+                    </span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -237,7 +243,9 @@ const Team = () => {
                       Pratik <br />
                       Padte
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">
+                      Php & Angularjs Developer
+                    </span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -275,7 +283,47 @@ const Team = () => {
                       Neha <br />
                       Patil
                     </h3>
-                    <span className="position mb-4">Architect</span>
+                    <span className="position mb-4">
+                      IOS & Android Developer
+                    </span>
+                    <ul className="ftco-social">
+                      <li className="ftco-animate">
+                        <a href="#">
+                          <span className="icon-twitter"></span>
+                        </a>
+                      </li>
+                      <li className="ftco-animate">
+                        <a href="#">
+                          <span className="icon-facebook"></span>
+                        </a>
+                      </li>
+                      <li className="ftco-animate">
+                        <a href="#">
+                          <span className="icon-google-plus"></span>
+                        </a>
+                      </li>
+                      <li className="ftco-animate">
+                        <a href="#">
+                          <span className="icon-instagram"></span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-6 col-md-6 col-lg-3 ftco-animate">
+              <div className="staff">
+                <div className="img-wrap d-flex align-items-stretch justify-content-end">
+                  <div className="img align-self-stretch team-eight"></div>
+                </div>
+                <div className="text d-flex align-items-center pt-3">
+                  <div>
+                    <h3 className="mb-2">
+                      Angad <br />
+                      Yadav
+                    </h3>
+                    <span className="position mb-4">Frontend Designer</span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">

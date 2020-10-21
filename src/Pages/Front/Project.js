@@ -165,7 +165,7 @@ const Project = () => {
                               target="_blank"
                               className="custom-btn"
                             >
-                              View Portfolio
+                              Visit Website
                             </a>
                           </p>
                         </div>

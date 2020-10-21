@@ -197,8 +197,8 @@ const Service = () => {
                     </div>
                     <h5 className="font-medium">Cloud Services</h5>
                     <p className="text-gray-2">
-                      Intranet could be your ideal partner to help you make the
-                      most out of your cloud with minimum disruption.
+                      Freelancerdevs could be your ideal partner to help you
+                      make the most out of your cloud with minimum disruption.
                     </p>
                     <ul className="text-gray-2 d-none d-sm-block">
                       <li>Cloud Advisory</li>
@@ -227,7 +227,7 @@ const Service = () => {
                 <div className="media-body py-md-4">
                   <h3>Website Development</h3>
                   <p>
-                    Intranet is a full service Web Development Company, that
+                    Freelancerdevs is a full service Web Development Company, that
                     offers Web Development Services using all leading
                     development technologies and frameworks.
                   </p>
@@ -288,7 +288,7 @@ const Service = () => {
                 <div className="media-body py-md-4">
                   <h3>Cloud Services</h3>
                   <p>
-                    Intranet could be your ideal partner to help you make the
+                    Freelancerdevs could be your ideal partner to help you make the
                     most out of your cloud with minimum disruption.
                   </p>
                 </div>

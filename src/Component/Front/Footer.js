@@ -9,26 +9,26 @@ const Footer = () => {
           <div className="row">
             <div className="col-md">
               <div className="ftco-footer-widget mb-4">
-                <h2 className="ftco-heading-2">ArchLab.</h2>
+                <h2 className="ftco-heading-2">Freelancer Developers</h2>
                 <p>
                   A full-stack engineering firm that builds cutting edge
                   products for businesses to grow to a web scale
                 </p>
                 <ul className="ftco-footer-social list-unstyled mt-5">
                   <li className="ftco-animate">
-                    <Link to="!#">
+                    {/* <Link to="!#">
                       <span className="fa fa-twitter"></span>
-                    </Link>
+                    </Link> */}
                   </li>
                   <li className="ftco-animate">
-                    <Link to="!#">
+                    {/* <Link to="!#">
                       <span className="fa fa-facebook"></span>
-                    </Link>
+                    </Link> */}
                   </li>
                   <li className="ftco-animate">
-                    <Link to="!#">
+                    {/* <Link to="!#">
                       <span className="fa fa-instagram"></span>
-                    </Link>
+                    </Link> */}
                   </li>
                 </ul>
               </div>
@@ -42,20 +42,15 @@ const Footer = () => {
                       <span className="fa fa-chevron-right mr-2"></span>Projects
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link to="/team">
                       <span className="fa fa-chevron-right mr-2"></span>Meet the
                       team
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
-                    <Link to="!#">
+                    <Link to="/service">
                       <span className="fa fa-chevron-right mr-2"></span>Services
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="!#">
-                      <span className="fa fa-chevron-right mr-2"></span>Careers
                     </Link>
                   </li>
                 </ul>
@@ -90,22 +85,28 @@ const Footer = () => {
                 <h2 className="ftco-heading-2">Have a Questions?</h2>
                 <div className="block-23 mb-3">
                   <ul>
-                    <li>
+                    {/* <li>
                       <span className="icon fa fa-map"></span>
                       <span className="text">
                         H-6, Akansha, Goregaon West, Mumbai 400104
                       </span>
-                    </li>
+                    </li> */}
                     <li>
-                      <a href="tel:+918080808128">
+                      <a href="tel:+919870352109">
+                        <span className="icon fa fa-mobile"></span>
+                        <span className="text">(+91) 9870352109 </span>
+                      </a>
+                      <a href="tel:+919029759253">
                         <span className="icon fa fa-phone"></span>
-                        <span className="text">(+91) 8080808128 </span>
+                        <span className="text">(+91) 9029759253 </span>
                       </a>
                     </li>
                     <li>
-                      <a href="mailto:info@intranetcomputers.com">
+                      <a href="mailto:freelancerdevelopers@gmail.com">
                         <span className="icon fa fa-envelope pr-4"></span>
-                        <span className="text">info@intranetcomputers.com</span>
+                        <span className="text">
+                          freelancerdevelopers@gmail.com
+                        </span>
                       </a>
                     </li>
                   </ul>
@@ -124,7 +125,7 @@ const Footer = () => {
                   className="icon-heart color-danger"
                   aria-hidden="true"
                 ></i>{" "}
-                by <a href="#">Intranet Computers</a>
+                by <a href="#">Freelancer developers</a>
               </p>
             </div>
           </div>
@@ -133,7 +134,7 @@ const Footer = () => {
       <a
         className="floating-link position-fixed fa-tip-right show"
         title=""
-        href="https://api.whatsapp.com/send?phone=918080808128&amp;text="
+        href="https://api.whatsapp.com/send?phone=919870352109&amp;text="
         target="_blank"
         data-original-title="WhatsApp Chat"
       >

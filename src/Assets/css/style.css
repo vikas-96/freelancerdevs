@@ -8641,6 +8641,11 @@ button.bg-dark:focus {
   margin-bottom: 3rem !important;
 }
 
+.mb-6,
+.my-6 {
+  margin-bottom: 6rem !important;
+}
+
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important;
@@ -12128,7 +12133,7 @@ textarea.form-control {
 
 .staff {
   width: 100%;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
   z-index: 0;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -12944,15 +12949,15 @@ textarea.form-control {
 }
 
 .happy-client-section .client-first-img {
-  background: url(../images/Jesal.jpg) center no-repeat;
+  background: url(../images/Jesal.png) center no-repeat;
   background-size: cover;
 }
 .happy-client-section .client-second-img {
-  background: url(../images/errol.jpeg) center no-repeat;
+  background: url(../images/Errol.jpeg) center no-repeat;
   background-size: cover;
 }
 .happy-client-section .client-third-img {
-  background: url(../images/AskmeInfoline.jpg) center no-repeat;
+  background: url(../images/Rajiv.png) center no-repeat;
   background-size: cover;
 }
 .happy-client-section .client-fourth-img {
@@ -12990,6 +12995,10 @@ textarea.form-control {
 }
 .team-section .team-seventh {
   background: url(../images/Neha.png) center no-repeat;
+  background-size: cover;
+}
+.team-section .team-eight {
+  background: url(../images/Angad.png) center no-repeat;
   background-size: cover;
 }
 
@@ -13086,4 +13095,40 @@ textarea.form-control {
 
 .contactus-table tr:nth-child(even) {
   background-color: #dddddd;
+}
+
+@media screen and (max-width: 480px) {
+  .hero-wrap {
+    height: 580px;
+  }
+  .hero-wrap .slider-text {
+    height: 580px;
+  }
+  .pb-mv-0 {
+    padding-bottom: 0 !important;
+  }
+  .mb-mv-0 {
+    margin-bottom: 0 !important;
+  }
+  .mb-mv-3 {
+    margin-bottom: 3rem !important;
+  }
+  .hero-wrap.hero-wrap-2 .overlay {
+    height: 410px !important;
+  }
+  .hero-wrap.hero-wrap-2 .slider-text {
+    height: 390px !important;
+  }
+  .hero-wrap.hero-wrap-2 {
+    height: 410px !important;
+  }
+}
+
+@media only screen and (min-device-width: 768px) {
+  .pb-tv-0 {
+    padding-bottom: 0 !important;
+  }
+  .mb-tv-0 {
+    margin-bottom: 0 !important;
+  }
 }

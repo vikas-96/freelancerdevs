@@ -12,7 +12,7 @@ const Header = (props) => {
       >
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            Intranet Computers
+            Freelancer developers
           </Link>
           <button
             className="navbar-toggler"
@@ -42,7 +42,7 @@ const Header = (props) => {
                   About
                 </Link>
               </li>
-              <li
+              {/* <li
                 className={
                   pagename === "/team" ? "nav-item active" : "nav-item"
                 }
@@ -50,7 +50,7 @@ const Header = (props) => {
                 <Link to="/team" className="nav-link">
                   Team
                 </Link>
-              </li>
+              </li> */}
               <li
                 className={
                   pagename === "/service" ? "nav-item active" : "nav-item"

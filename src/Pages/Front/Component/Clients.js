@@ -46,10 +46,10 @@ const Clients = () => {
                     <div className="text">
                       <span className="fa fa-quote-left"></span>
                       <p className="mb-4">
-                        The Intranet team has been instrumental in shaping our
-                        requirements and deliver the best product. Team is very
-                        dedicated and talented. We are glad to choose them as
-                        our technology partners.
+                        The Freelancerdevs team has been instrumental in shaping
+                        our requirements and deliver the best product. Team is
+                        very dedicated and talented. We are glad to choose them
+                        as our technology partners.
                       </p>
                       <div className="d-flex align-items-center">
                         <div
@@ -70,10 +70,10 @@ const Clients = () => {
                     <div className="text">
                       <span className="fa fa-quote-left"></span>
                       <p className="mb-4">
-                        The guys at Intranet have strong technical knowledge.
-                        They completed our website within record time. There
-                        were a lot of features in the app which required
-                        research on different platforms.
+                        The guys at Freelancerdevs have strong technical
+                        knowledge. They completed our website within record
+                        time. There were a lot of features in the app which
+                        required research on different platforms.
                       </p>
                       <div className="d-flex align-items-center">
                         <div
@@ -107,7 +107,7 @@ const Clients = () => {
                           // style="background-image: url(images/person_2.jpg)"
                         ></div>
                         <div className="pl-3">
-                          <p className="name">Angad Yadav</p>
+                          <p className="name">Rajiv Giri</p>
                           <span className="position">
                             Manager, Askme Infoline
                           </span>
@@ -148,9 +148,9 @@ const Clients = () => {
                       <span className="fa fa-quote-left"></span>
                       <p className="mb-4">
                         One of the Best company I ever had business with. Once
-                        you do business with the INTRANET, I am sure you will
-                        visit them again and again as their quality of work is
-                        very good.
+                        you do business with the Freelancerdevs, I am sure you
+                        will visit them again and again as their quality of work
+                        is very good.
                       </p>
                       <div className="d-flex align-items-center">
                         <div

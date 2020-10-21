@@ -10,7 +10,7 @@ const Counter = () => {
               <div className="block-18 py-md-5 mb-md-4">
                 <div className="text text-border d-flex align-items-center">
                   <strong className="number" data-number="8">
-                    6+
+                    7+
                   </strong>
                   <span>
                     Years of <br />
@@ -23,7 +23,7 @@ const Counter = () => {
               <div className="block-18 py-md-5 mb-md-4">
                 <div className="text text-border d-flex align-items-center">
                   <strong className="number" data-number="100">
-                    25+
+                    20+
                   </strong>
                   <span>
                     Project <br />
@@ -49,7 +49,7 @@ const Counter = () => {
               <div className="block-18 py-md-5 mb-md-4">
                 <div className="text d-flex align-items-center">
                   <strong className="number" data-number="150">
-                    30+
+                    20+
                   </strong>
                   <span>
                     Happy <br />
