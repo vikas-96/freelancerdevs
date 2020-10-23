@@ -11,9 +11,14 @@ const Header = (props) => {
         id="ftco-navbar"
       >
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
-            Freelancer developers
-          </Link>
+          <div className="navi-warp-home">
+            <Link className="" to="/">
+              <img
+                src={require("../../Assets/images/logo.png")}
+                class="img-responsive"
+              />
+            </Link>
+          </div>
           <button
             className="navbar-toggler"
             type="button"
@@ -42,7 +47,7 @@ const Header = (props) => {
                   About
                 </Link>
               </li>
-              {/* <li
+              <li
                 className={
                   pagename === "/team" ? "nav-item active" : "nav-item"
                 }
@@ -50,7 +55,7 @@ const Header = (props) => {
                 <Link to="/team" className="nav-link">
                   Team
                 </Link>
-              </li> */}
+              </li>
               <li
                 className={
                   pagename === "/service" ? "nav-item active" : "nav-item"

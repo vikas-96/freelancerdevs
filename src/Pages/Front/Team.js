@@ -39,6 +39,12 @@ const Team = () => {
               <div className="staff">
                 <div className="img-wrap d-flex align-items-stretch justify-content-end">
                   <div className="img align-self-stretch team-second"></div>
+                  {/* <div class="">
+                    <img
+                      src={require("../../Assets/images/Mayur.png")}
+                      class="img-fluid"
+                    />
+                  </div> */}
                 </div>
                 <div className="text d-flex align-items-center pt-3">
                   <div>
@@ -86,7 +92,9 @@ const Team = () => {
                       Pooja <br />
                       Benbansi
                     </h3>
-                    <span className="position mb-4">Team lead / Developer</span>
+                    <span className="position mb-4">
+                      Team lead / PHP Developer
+                    </span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -124,7 +132,7 @@ const Team = () => {
                       Harshit <br />
                       Singh
                     </h3>
-                    <span className="position mb-4">Php Developer</span>
+                    <span className="position mb-4">MERN Stack Developer</span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">
@@ -323,7 +331,7 @@ const Team = () => {
                       Angad <br />
                       Yadav
                     </h3>
-                    <span className="position mb-4">Frontend Designer</span>
+                    <span className="position mb-4">UI/UX Designer</span>
                     <ul className="ftco-social">
                       <li className="ftco-animate">
                         <a href="#">

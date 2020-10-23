@@ -11320,7 +11320,7 @@ h5,
 
 @media (max-width: 767.98px) {
   .img-2 {
-    height: 600px;
+    min-height: auto;
     margin-bottom: 30px;
   }
 }
@@ -12931,11 +12931,11 @@ textarea.form-control {
 }
 
 /* images */
-.project-section .project-first-img {
+/* .project-section .project-first-img {
   background: url(../images/forextwist.jpeg) center no-repeat;
   background-size: contain;
-}
-.project-section .project-second-img {
+} */
+/* .project-section .project-second-img {
   background: url(../images/askmeinfoline.jpeg) center no-repeat;
   background-size: contain;
 }
@@ -12946,7 +12946,7 @@ textarea.form-control {
 .project-section .project-fourth-img {
   background: url(../images/piyalzinal.jpeg) center no-repeat;
   background-size: contain;
-}
+} */
 
 .happy-client-section .client-first-img {
   background: url(../images/Jesal.png) center no-repeat;
@@ -13117,7 +13117,7 @@ textarea.form-control {
     height: 410px !important;
   }
   .hero-wrap.hero-wrap-2 .slider-text {
-    height: 390px !important;
+    height: 454px !important;
   }
   .hero-wrap.hero-wrap-2 {
     height: 410px !important;
@@ -13132,3 +13132,20 @@ textarea.form-control {
     margin-bottom: 0 !important;
   }
 }
+
+/* .navi-warp-home {
+  padding: 0;
+  display: table;
+  position: relative;
+  width: 100%;
+}
+.navi-warp-home .logo {
+  display: table-cell;
+  vertical-align: middle;
+}
+.logo img {
+  height: "30px";
+}
+.img-responsive {
+  max-width: 100%;
+} */

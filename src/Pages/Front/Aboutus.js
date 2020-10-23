@@ -8,7 +8,7 @@ const Aboutus = () => {
   return (
     <>
       <section
-        className="hero-wrap hero-wrap-2"
+        className="hero-wrap hero-wrap-2 mb-4"
         // style="background-image: url('images/bg_2.jpg')"
         data-stellar-background-ratio="0.5"
       >

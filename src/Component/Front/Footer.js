@@ -42,12 +42,12 @@ const Footer = () => {
                       <span className="fa fa-chevron-right mr-2"></span>Projects
                     </Link>
                   </li>
-                  {/* <li>
+                  <li>
                     <Link to="/team">
                       <span className="fa fa-chevron-right mr-2"></span>Meet the
                       team
                     </Link>
-                  </li> */}
+                  </li>
                   <li>
                     <Link to="/service">
                       <span className="fa fa-chevron-right mr-2"></span>Services
@@ -94,7 +94,7 @@ const Footer = () => {
                     <li>
                       <a href="tel:+919870352109">
                         <span className="icon fa fa-mobile"></span>
-                        <span className="text">(+91) 9870352109 </span>
+                        <span className="text">(+91) 9076352109 </span>
                       </a>
                       <a href="tel:+919029759253">
                         <span className="icon fa fa-phone"></span>
@@ -102,10 +102,10 @@ const Footer = () => {
                       </a>
                     </li>
                     <li>
-                      <a href="mailto:freelancerdevelopers@gmail.com">
+                      <a href="mailto:freelancerdevelops@gmail.com">
                         <span className="icon fa fa-envelope pr-4"></span>
                         <span className="text">
-                          freelancerdevelopers@gmail.com
+                          freelancerdevelops@gmail.com
                         </span>
                       </a>
                     </li>
@@ -134,7 +134,7 @@ const Footer = () => {
       <a
         className="floating-link position-fixed fa-tip-right show"
         title=""
-        href="https://api.whatsapp.com/send?phone=919870352109&amp;text="
+        href="https://api.whatsapp.com/send?phone=919076352109&amp;text="
         target="_blank"
         data-original-title="WhatsApp Chat"
       >
