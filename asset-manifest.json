@@ -8,9 +8,9 @@
     "static/css/2.bbe4ddbe.chunk.css": "/static/css/2.bbe4ddbe.chunk.css",
     "static/js/2.dadca7ae.chunk.js": "/static/js/2.dadca7ae.chunk.js",
     "static/js/2.dadca7ae.chunk.js.map": "/static/js/2.dadca7ae.chunk.js.map",
-    "main.css": "/static/css/main.a52a0354.chunk.css",
-    "main.js": "/static/js/main.ce86e3be.chunk.js",
-    "main.js.map": "/static/js/main.ce86e3be.chunk.js.map",
+    "main.css": "/static/css/main.928738f2.chunk.css",
+    "main.js": "/static/js/main.e811532b.chunk.js",
+    "main.js.map": "/static/js/main.e811532b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.265bb5c1.js",
     "runtime-main.js.map": "/static/js/runtime-main.265bb5c1.js.map",
     "static/js/5.2421c680.chunk.js": "/static/js/5.2421c680.chunk.js",
@@ -34,25 +34,25 @@
     "static/js/14.ab1005ea.chunk.js": "/static/js/14.ab1005ea.chunk.js",
     "static/js/14.ab1005ea.chunk.js.map": "/static/js/14.ab1005ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5e79ea4e155b6ae7d499b1bd494f9a55.js": "/precache-manifest.5e79ea4e155b6ae7d499b1bd494f9a55.js",
+    "precache-manifest.57b1ad3d25c38fecb0751f719c524dd2.js": "/precache-manifest.57b1ad3d25c38fecb0751f719c524dd2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/1.828be9a0.chunk.css.map": "/static/css/1.828be9a0.chunk.css.map",
     "static/css/2.bbe4ddbe.chunk.css.map": "/static/css/2.bbe4ddbe.chunk.css.map",
-    "static/css/main.a52a0354.chunk.css.map": "/static/css/main.a52a0354.chunk.css.map",
+    "static/css/main.928738f2.chunk.css.map": "/static/css/main.928738f2.chunk.css.map",
     "static/js/1.618d4afb.chunk.js.LICENSE.txt": "/static/js/1.618d4afb.chunk.js.LICENSE.txt",
     "static/js/2.dadca7ae.chunk.js.LICENSE.txt": "/static/js/2.dadca7ae.chunk.js.LICENSE.txt",
     "static/js/5.2421c680.chunk.js.LICENSE.txt": "/static/js/5.2421c680.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/bg_2.e4b89b9e.jpg",
     "static/media/askmeinfoline.jpeg": "/static/media/askmeinfoline.a19f1317.jpeg",
     "static/media/forextwist.jpeg": "/static/media/forextwist.076c31ee.jpeg",
-    "static/media/logo.png": "/static/media/logo.25b755ee.png",
+    "static/media/logo.png": "/static/media/logo.c135bb32.png",
     "static/media/piyalzinal.jpeg": "/static/media/piyalzinal.9f547c69.jpeg",
     "static/media/zionkart.jpeg": "/static/media/zionkart.a6c56ec0.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.265bb5c1.js",
     "static/js/5.2421c680.chunk.js",
-    "static/css/main.a52a0354.chunk.css",
-    "static/js/main.ce86e3be.chunk.js"
+    "static/css/main.928738f2.chunk.css",
+    "static/js/main.e811532b.chunk.js"
   ]
 }
