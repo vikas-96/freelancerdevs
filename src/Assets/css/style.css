@@ -13122,6 +13122,9 @@ textarea.form-control {
   .hero-wrap.hero-wrap-2 {
     height: 410px !important;
   }
+  .navi-warp-home img {
+    height: 70px;
+  }
 }
 
 @media only screen and (min-device-width: 768px) {
@@ -13133,6 +13136,22 @@ textarea.form-control {
   }
 }
 
+.navbar,
+.navbar > .container,
+.navbar > .container-fluid {
+  align-items: flex-start;
+}
+.ftco-navbar-light.scrolled {
+  height: 70px;
+}
+.navi-warp-home img {
+  height: 100px;
+}
+/* .logo img {
+  width: 175px;
+  position: fixed;
+  top: 2%;
+} */
 /* .navi-warp-home {
   padding: 0;
   display: table;
