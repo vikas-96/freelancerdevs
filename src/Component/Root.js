@@ -1,6 +1,7 @@
 import React, { Suspense } from "react";
 import { Switch } from "react-router-dom";
 import { PublicLayout, FrontLayout } from "./Layout";
+import Loader from "./Loader";
 const Home = React.lazy(() => import("../Pages/Front/Home"));
 const Aboutus = React.lazy(() => import("../Pages/Front/Aboutus"));
 const Team = React.lazy(() => import("../Pages/Front/Team"));
@@ -16,7 +17,7 @@ const NotFound = React.lazy(() => import("../Pages/Error/NotFound"));
 const Root = () => {
   return (
     <>
-      <Suspense fallback={<div>Loading...</div>}>
+      <Suspense fallback={<Loader show />}>
         <Switch>
           <FrontLayout path="/" exact component={Home} />
           <FrontLayout path="/about" exact component={Aboutus} />

@@ -242,6 +242,103 @@ const Project = () => {
                 </div>
               </div>
             </div>
+
+            <div className="col-md-12 portfolio-wrap">
+              <div className="row no-gutters align-items-center">
+                {/* <div
+                  className="col-md-5 img js-fullheight project-third-img"
+                  // style="background-image: url(images/work-3.jpg);"
+                ></div> */}
+                <div class="col-md-5 project-first-img">
+                  <img
+                    src={require("../../Assets/images/no-image.jpg")}
+                    class="img-fluid"
+                  />
+                </div>
+                <div className="col-md-7">
+                  <div className="text pt-5 pl-md-5 pl-md-4 ftco-animate">
+                    <div className="px-4 px-lg-4">
+                      <div className="desc">
+                        <div className="top">
+                          <h2 className="mb-4">
+                            <a
+                              href="http://vaspraenterprises.in"
+                              target="_blank"
+                            >
+                              Vaspra Enterprises
+                            </a>
+                          </h2>
+                        </div>
+                        <div className="absolute">
+                          <p>
+                            Vaspra Enterprises is an eminent entity involved in
+                            manufacturing of industrial goods. They offer there
+                            clients with a wide & high quality range of Fan
+                            Guards, Coil Guards, and Wire Mesh. They started the
+                            journey in the year 2000, incorporated as a
+                            partnership firm in Vapi, Gujarat, India.
+                          </p>
+                          <p>
+                            <a
+                              href="http://vaspraenterprises.in"
+                              target="_blank"
+                              className="custom-btn"
+                            >
+                              Visit Website
+                            </a>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-12 portfolio-wrap">
+              <div className="row no-gutters align-items-center">
+                {/* <div
+                  className="col-md-5 order-md-last img js-fullheight project-fourth-img"
+                  // style="background-image: url(images/work-4.jpg);"
+                ></div> */}
+                <div class="col-md-5 order-md-last project-first-img">
+                  <img
+                    src={require("../../Assets/images/no-image.jpg")}
+                    class="img-fluid"
+                  />
+                </div>
+                <div className="col-md-7">
+                  <div className="text pt-5 pr-md-5 ftco-animate">
+                    <div className="px-4 px-lg-4">
+                      <div className="desc text-md-right">
+                        <div className="top">
+                          <h2 className="mb-4">
+                            <a href="http://sizs.co.in/" target="_blank">
+                              Sizs
+                            </a>
+                          </h2>
+                        </div>
+                        <div className="absolute">
+                          <p>
+                            Sizs has been in the business of Massage Products
+                            for more than 10 years, Sizs have been one of the
+                            leading importers of Health and Beauty Equipments.
+                          </p>
+                          <p>
+                            <a
+                              href="http://sizs.co.in/"
+                              target="_blank"
+                              className="custom-btn"
+                            >
+                              Visit Website
+                            </a>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div className="row justify-content-center no-gutters">

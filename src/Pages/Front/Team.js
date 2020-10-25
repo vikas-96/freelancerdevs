@@ -361,6 +361,13 @@ const Team = () => {
           </div>
         </div>
       </section>
+      <div className="row justify-content-center no-gutters">
+        <div className="col-md-12 heading-section text-center ftco-animate mb-5">
+          <h2 className="mb-2">
+            If Needed then More People Will Available....
+          </h2>
+        </div>
+      </div>
     </>
   );
 };

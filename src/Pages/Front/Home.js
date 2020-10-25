@@ -207,9 +207,8 @@ const Home = () => {
                 />
                 <h5 className="font-medium">Cloud Services</h5>
                 <p>
-                  Exploring the deepest trends in your industry by our Data
-                  Analytics tools. We have a set of well-qualified professionals
-                  to turn your pieces of information into insights that will
+                  Freelancerdevs could be your ideal partner to help you make
+                  the most out of your cloud with minimum disruption that will
                   improve your business profits.
                 </p>
               </div>
