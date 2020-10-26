@@ -63,7 +63,7 @@ const Contact = () => {
                   </div>
                   <p>
                     <span>Phone:</span>{" "}
-                    <a href="tel:+919870352109">(+91) 9870352109</a>
+                    <a href="tel:+919870352109">(+91) 9076352109</a>
                   </p>
                 </div>
                 <div className="col-md-6 text-center py-4">

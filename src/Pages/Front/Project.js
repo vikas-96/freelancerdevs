@@ -251,7 +251,7 @@ const Project = () => {
                 ></div> */}
                 <div class="col-md-5 project-first-img">
                   <img
-                    src={require("../../Assets/images/no-image.jpg")}
+                    src={require("../../Assets/images/vaspra.jpeg")}
                     class="img-fluid"
                   />
                 </div>
@@ -302,7 +302,7 @@ const Project = () => {
                 ></div> */}
                 <div class="col-md-5 order-md-last project-first-img">
                   <img
-                    src={require("../../Assets/images/no-image.jpg")}
+                    src={require("../../Assets/images/sizs.jpeg")}
                     class="img-fluid"
                   />
                 </div>
