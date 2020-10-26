@@ -15,7 +15,8 @@ const Header = (props) => {
             <Link className="" to="/">
               <img
                 src={require("../../Assets/images/logo.png")}
-                class="img-responsive"
+                className="img-responsive"
+                alt="logo"
               />
             </Link>
           </div>

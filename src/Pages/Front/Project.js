@@ -46,10 +46,11 @@ const Project = () => {
                   className="col-md-5 img js-fullheight project-first-img"
                   // style="background-image: url(images/work-1.jpg);"
                 ></div> */}
-                <div class="col-md-5 project-first-img">
+                <div className="col-md-5 project-first-img">
                   <img
                     src={require("../../Assets/images/forextwist.jpeg")}
-                    class="img-fluid"
+                    className="img-fluid"
+                    alt="Forextwist"
                   />
                 </div>
                 <div className="col-md-7">
@@ -59,6 +60,7 @@ const Project = () => {
                         <div className="top">
                           <h2 className="mb-4">
                             <a
+                              rel="noopener noreferrer"
                               href="https://www.forextwist.com"
                               target="_blank"
                             >
@@ -78,6 +80,7 @@ const Project = () => {
                           </p>
                           <p>
                             <a
+                              rel="noopener noreferrer"
                               href="https://www.forextwist.com"
                               target="_blank"
                               className="custom-btn"
@@ -99,10 +102,11 @@ const Project = () => {
                   className="col-md-5 order-md-last img js-fullheight project-second-img"
                   // style="background-image: url(images/work-2.jpg);"
                 ></div> */}
-                <div class="col-md-5 order-md-last project-first-img">
+                <div className="col-md-5 order-md-last project-first-img">
                   <img
                     src={require("../../Assets/images/askmeinfoline.jpeg")}
-                    class="img-fluid"
+                    className="img-fluid"
+                    alt="AskmeInfoline"
                   />
                 </div>
                 <div className="col-md-7">
@@ -112,6 +116,7 @@ const Project = () => {
                         <div className="top">
                           <h2 className="mb-4">
                             <a
+                              rel="noopener noreferrer"
                               href="https://www.askmeinfoline.com"
                               target="_blank"
                             >
@@ -131,6 +136,7 @@ const Project = () => {
                           </p>
                           <p>
                             <a
+                              rel="noopener noreferrer"
                               href="https://www.askmeinfoline.com"
                               target="_blank"
                               className="custom-btn"
@@ -152,10 +158,11 @@ const Project = () => {
                   className="col-md-5 img js-fullheight project-third-img"
                   // style="background-image: url(images/work-3.jpg);"
                 ></div> */}
-                <div class="col-md-5 project-first-img">
+                <div className="col-md-5 project-first-img">
                   <img
                     src={require("../../Assets/images/zionkart.jpeg")}
-                    class="img-fluid"
+                    className="img-fluid"
+                    alt="Zionkart"
                   />
                 </div>
                 <div className="col-md-7">
@@ -164,7 +171,11 @@ const Project = () => {
                       <div className="desc">
                         <div className="top">
                           <h2 className="mb-4">
-                            <a href="https://www.zionkart.in" target="_blank">
+                            <a
+                              rel="noopener noreferrer"
+                              href="https://www.zionkart.in"
+                              target="_blank"
+                            >
                               Zionkart
                             </a>
                           </h2>
@@ -179,6 +190,7 @@ const Project = () => {
                           </p>
                           <p>
                             <a
+                              rel="noopener noreferrer"
                               href="https://www.zionkart.in"
                               target="_blank"
                               className="custom-btn"
@@ -200,10 +212,11 @@ const Project = () => {
                   className="col-md-5 order-md-last img js-fullheight project-fourth-img"
                   // style="background-image: url(images/work-4.jpg);"
                 ></div> */}
-                <div class="col-md-5 order-md-last project-first-img">
+                <div className="col-md-5 order-md-last project-first-img">
                   <img
                     src={require("../../Assets/images/piyalzinal.jpeg")}
-                    class="img-fluid"
+                    className="img-fluid"
+                    alt="Piyal&Zinal"
                   />
                 </div>
                 <div className="col-md-7">
@@ -212,7 +225,11 @@ const Project = () => {
                       <div className="desc text-md-right">
                         <div className="top">
                           <h2 className="mb-4">
-                            <a href="https://payalandzinal.com" target="_blank">
+                            <a
+                              rel="noopener noreferrer"
+                              href="https://payalandzinal.com"
+                              target="_blank"
+                            >
                               Payal & Zinal
                             </a>
                           </h2>
@@ -228,6 +245,7 @@ const Project = () => {
                           </p>
                           <p>
                             <a
+                              rel="noopener noreferrer"
                               href="https://payalandzinal.com"
                               target="_blank"
                               className="custom-btn"
@@ -249,10 +267,11 @@ const Project = () => {
                   className="col-md-5 img js-fullheight project-third-img"
                   // style="background-image: url(images/work-3.jpg);"
                 ></div> */}
-                <div class="col-md-5 project-first-img">
+                <div className="col-md-5 project-first-img">
                   <img
                     src={require("../../Assets/images/vaspra.jpeg")}
-                    class="img-fluid"
+                    className="img-fluid"
+                    alt="Vaspra"
                   />
                 </div>
                 <div className="col-md-7">
@@ -262,6 +281,7 @@ const Project = () => {
                         <div className="top">
                           <h2 className="mb-4">
                             <a
+                              rel="noopener noreferrer"
                               href="http://vaspraenterprises.in"
                               target="_blank"
                             >
@@ -280,6 +300,7 @@ const Project = () => {
                           </p>
                           <p>
                             <a
+                              rel="noopener noreferrer"
                               href="http://vaspraenterprises.in"
                               target="_blank"
                               className="custom-btn"
@@ -300,10 +321,11 @@ const Project = () => {
                   className="col-md-5 order-md-last img js-fullheight project-fourth-img"
                   // style="background-image: url(images/work-4.jpg);"
                 ></div> */}
-                <div class="col-md-5 order-md-last project-first-img">
+                <div className="col-md-5 order-md-last project-first-img">
                   <img
                     src={require("../../Assets/images/sizs.jpeg")}
-                    class="img-fluid"
+                    className="img-fluid"
+                    alt="Sizs"
                   />
                 </div>
                 <div className="col-md-7">
@@ -312,7 +334,11 @@ const Project = () => {
                       <div className="desc text-md-right">
                         <div className="top">
                           <h2 className="mb-4">
-                            <a href="http://sizs.co.in/" target="_blank">
+                            <a
+                              rel="noopener noreferrer"
+                              href="http://sizs.co.in/"
+                              target="_blank"
+                            >
                               Sizs
                             </a>
                           </h2>
@@ -325,6 +351,7 @@ const Project = () => {
                           </p>
                           <p>
                             <a
+                              rel="noopener noreferrer"
                               href="http://sizs.co.in/"
                               target="_blank"
                               className="custom-btn"
