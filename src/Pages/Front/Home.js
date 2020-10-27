@@ -3,10 +3,22 @@ import { Link } from "react-router-dom";
 import Counter from "./Component/Counter";
 import Clients from "./Component/Clients";
 import WhyChooseUs from "./Component/WhyChooseUs";
+import { Helmet } from "react-helmet";
 
 const Home = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="Looking for right place to make your website or app then contact freelancer developers."
+        />
+        <meta
+          name="keyword"
+          content="freelancer developers, website development, app development seo, digital marketing"
+        />
+        <title>Best Web Development Freelancing | FreelancerDevs</title>
+      </Helmet>
       <section className="hero-wrap" data-stellar-background-ratio="0.3">
         <div className="overlay"></div>
         <div className="container">

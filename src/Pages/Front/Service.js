@@ -1,9 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const Service = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="Freelancer developers is a software development company that offers top-rated software development services across different clients in India and abroad. | Freelancerdevs."
+        />
+        <meta
+          name="keyword"
+          content="software application development, Mobile application development, Webiste development companies, App development company, website development company India"
+        />
+        <title>Best Website Services | Freelancer developers.</title>
+      </Helmet>
       <section
         className="hero-wrap hero-wrap-2"
         // style="background-image: url('images/bg_2.jpg');"

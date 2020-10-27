@@ -1,9 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const PrivacyPolicy = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="Privacy Policy | Freelancer developers."
+        />
+        <meta
+          name="keyword"
+          content="Contact us, website developers india, web development services, web design services, seo services india, mobile application development, eCommerce web development, custom wordpress development"
+        />
+        <title>Privacy Policy | Freelancer developers.</title>
+      </Helmet>
       <section
         className="hero-wrap hero-wrap-2"
         // style="background-image: url('images/bg_2.jpg')"

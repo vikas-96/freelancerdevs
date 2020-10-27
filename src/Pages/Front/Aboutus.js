@@ -3,10 +3,22 @@ import { Link } from "react-router-dom";
 import AboutDetail from "./Component/AboutDetail";
 import Counter from "./Component/Counter";
 import Clients from "./Component/Clients";
+import { Helmet } from "react-helmet";
 
 const Aboutus = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="Dynamic, Inspirational and Visionary leadership is what we as a freelancer developer In India follow."
+        />
+        <meta
+          name="keyword"
+          content="Website development company in India, freelancer developer, freelancerdevs."
+        />
+        <title>Website Development Freelancer In India | FreelancerDevs</title>
+      </Helmet>
       <section
         className="hero-wrap hero-wrap-2 mb-4"
         // style="background-image: url('images/bg_2.jpg')"

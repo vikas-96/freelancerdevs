@@ -1,10 +1,25 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import ContactForm from "./Component/ContactusForm";
+import { Helmet } from "react-helmet";
 
 const Contact = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="Contact Us for creating an outstanding Professional Web Development, Website designing, eCommerce web development & seo services globally."
+        />
+        <meta
+          name="keyword"
+          content="Contact us, website developers india, web development services, web design services, seo services india, mobile application development, eCommerce web development, custom wordpress development"
+        />
+        <title>
+          Contact Website Developers Freelancer India for your Web Development
+          Needs | freelancerdevs
+        </title>
+      </Helmet>
       <section
         className="hero-wrap hero-wrap-2"
         // style="background-image: url('images/bg_2.jpg');"

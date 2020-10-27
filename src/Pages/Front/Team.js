@@ -1,9 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const Team = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="A dedicated team of expertise website developers is what you will find in Freelancer Developer."
+        />
+        <meta
+          name="keyword"
+          content="Freelancer Website developers India, SEO experts, Professional team, Management team, freelancerdevs."
+        />
+        <title>Meet our freelancer team | FreelancerDevs</title>
+      </Helmet>
       <section
         className="hero-wrap hero-wrap-2"
         // style="background-image: url('images/bg_2.jpg');"

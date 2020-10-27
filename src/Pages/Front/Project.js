@@ -1,9 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const Project = () => {
   return (
     <>
+      <Helmet>
+        <meta
+          name="description"
+          content="A portfolio website is an essential tool for every web development in India, to get in more business. Find out our works at freelancerdevs."
+        />
+        <meta
+          name="keyword"
+          content="Portfolio, Web development reelancer in India, client portfolio, freelancerdevs portfolio."
+        />
+        <title>Portfolio Websites With Great Designs | freelancerdevs</title>
+      </Helmet>
       <section
         className="hero-wrap hero-wrap-2"
         data-stellar-background-ratio="0.5"
