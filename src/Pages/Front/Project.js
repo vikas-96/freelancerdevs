@@ -226,7 +226,7 @@ const Project = () => {
                 ></div> */}
                 <div className="col-md-5 order-md-last project-first-img">
                   <img
-                    src={require("../../Assets/images/no-image.jpg")}
+                    src={require("../../Assets/images/intranet.jpg")}
                     className="img-fluid"
                     alt="Sizs"
                   />
