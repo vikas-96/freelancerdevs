@@ -228,7 +228,7 @@ const Project = () => {
                   <img
                     src={require("../../Assets/images/Intranet.jpg")}
                     className="img-fluid"
-                    alt="Sizs"
+                    alt="Intranet"
                   />
                 </div>
                 <div className="col-md-7">
@@ -280,8 +280,8 @@ const Project = () => {
             <div className="col-md-12 portfolio-wrap">
               <div className="row no-gutters align-items-center">
                 {/* <div
-                  className="col-md-5 img js-fullheight project-fourth-img"
-                  // style="background-image: url(images/work-4.jpg);"
+                  className="col-md-5 img js-fullheight project-third-img"
+                  // style="background-image: url(images/work-3.jpg);"
                 ></div> */}
                 <div className="col-md-5 project-first-img">
                   <img
@@ -291,9 +291,9 @@ const Project = () => {
                   />
                 </div>
                 <div className="col-md-7">
-                  <div className="text pt-5 pr-md-5 ftco-animate">
+                  <div className="text pt-5 pl-md-5 pl-md-4 ftco-animate">
                     <div className="px-4 px-lg-4">
-                      <div className="desc text-md-right">
+                      <div className="desc">
                         <div className="top">
                           <h2 className="mb-4">
                             <a
@@ -335,8 +335,8 @@ const Project = () => {
             <div className="col-md-12 portfolio-wrap">
               <div className="row no-gutters align-items-center">
                 {/* <div
-                  className="col-md-5 img js-fullheight project-third-img"
-                  // style="background-image: url(images/work-3.jpg);"
+                  className="col-md-5 order-md-last img js-fullheight project-fourth-img"
+                  // style="background-image: url(images/work-4.jpg);"
                 ></div> */}
                 <div className="col-md-5 order-md-last project-first-img">
                   <img
@@ -346,9 +346,9 @@ const Project = () => {
                   />
                 </div>
                 <div className="col-md-7">
-                  <div className="text pt-5 pl-md-5 pl-md-4 ftco-animate">
+                  <div className="text pt-5 pr-md-5 ftco-animate">
                     <div className="px-4 px-lg-4">
-                      <div className="desc">
+                      <div className="desc text-md-right">
                         <div className="top">
                           <h2 className="mb-4">
                             <a
@@ -386,11 +386,12 @@ const Project = () => {
                 </div>
               </div>
             </div>
+
             <div className="col-md-12 portfolio-wrap">
               <div className="row no-gutters align-items-center">
                 {/* <div
-                  className="col-md-5 img js-fullheight project-fourth-img"
-                  // style="background-image: url(images/work-4.jpg);"
+                  className="col-md-5 img js-fullheight project-third-img"
+                  // style="background-image: url(images/work-3.jpg);"
                 ></div> */}
                 <div className="col-md-5 project-first-img">
                   <img
@@ -400,9 +401,9 @@ const Project = () => {
                   />
                 </div>
                 <div className="col-md-7">
-                  <div className="text pt-5 pr-md-5 ftco-animate">
+                  <div className="text pt-5 pl-md-5 pl-md-4 ftco-animate">
                     <div className="px-4 px-lg-4">
-                      <div className="desc text-md-right">
+                      <div className="desc">
                         <div className="top">
                           <h2 className="mb-4">
                             <a
