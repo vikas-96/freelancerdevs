@@ -226,6 +226,65 @@ const Project = () => {
                 ></div> */}
                 <div className="col-md-5 order-md-last project-first-img">
                   <img
+                    src={require("../../Assets/images/no-image.jpg")}
+                    className="img-fluid"
+                    alt="Sizs"
+                  />
+                </div>
+                <div className="col-md-7">
+                  <div className="text pt-5 pr-md-5 ftco-animate">
+                    <div className="px-4 px-lg-4">
+                      <div className="desc text-md-right">
+                        <div className="top">
+                          <h2 className="mb-4">
+                            <a
+                              rel="noopener noreferrer"
+                              href="http://intranetcomputers.com/"
+                              target="_blank"
+                            >
+                              Intranet Computers
+                            </a>
+                          </h2>
+                        </div>
+                        <div className="absolute">
+                          <p>
+                            Intranet Computer Institute is the leading IT
+                            education Institute. Established in 2014, Intranet
+                            Computer Institute is the pioneer in Mumbai City for
+                            Computer software & hardware training. The aim of
+                            Intranet Computer Institute is to provide computer
+                            education in whole nation at affordable prices and
+                            to make available good employment opportunities to
+                            all our deserving candidates and to trains youth and
+                            students in multiple segments of Information
+                            Technology.
+                          </p>
+                          <p>
+                            <a
+                              rel="noopener noreferrer"
+                              href="http://intranetcomputers.com/"
+                              target="_blank"
+                              className="custom-btn"
+                            >
+                              Visit Website
+                            </a>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-md-12 portfolio-wrap">
+              <div className="row no-gutters align-items-center">
+                {/* <div
+                  className="col-md-5 img js-fullheight project-fourth-img"
+                  // style="background-image: url(images/work-4.jpg);"
+                ></div> */}
+                <div className="col-md-5 project-first-img">
+                  <img
                     src={require("../../Assets/images/piyalzinal.jpeg")}
                     className="img-fluid"
                     alt="Piyal&Zinal"
@@ -279,7 +338,7 @@ const Project = () => {
                   className="col-md-5 img js-fullheight project-third-img"
                   // style="background-image: url(images/work-3.jpg);"
                 ></div> */}
-                <div className="col-md-5 project-first-img">
+                <div className="col-md-5 order-md-last project-first-img">
                   <img
                     src={require("../../Assets/images/vaspra.jpeg")}
                     className="img-fluid"
@@ -330,10 +389,10 @@ const Project = () => {
             <div className="col-md-12 portfolio-wrap">
               <div className="row no-gutters align-items-center">
                 {/* <div
-                  className="col-md-5 order-md-last img js-fullheight project-fourth-img"
+                  className="col-md-5 img js-fullheight project-fourth-img"
                   // style="background-image: url(images/work-4.jpg);"
                 ></div> */}
-                <div className="col-md-5 order-md-last project-first-img">
+                <div className="col-md-5 project-first-img">
                   <img
                     src={require("../../Assets/images/sizs.jpeg")}
                     className="img-fluid"
